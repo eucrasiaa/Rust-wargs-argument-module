@@ -1,5 +1,8 @@
 a barebones, slightly sloppy Rust argument handling module.
 by Will Capitos
+
+made to get slightly more familiar with the rust module/use(?) system. 
+
 ## usage:
 1. declare a new argument options
 2. push args
